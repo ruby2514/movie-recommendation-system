@@ -1,7 +1,7 @@
 # Movie Recommendation System
 
 ## Team Members
-- ruby2514
+- Ruby Villalona
 
 ## Dataset
 CiaoDVD - A real-world movie rating dataset containing:
